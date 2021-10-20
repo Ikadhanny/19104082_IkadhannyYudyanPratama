@@ -1,0 +1,22 @@
+Instruksi Praktek    
+1. Buat file form1.html
+2. Kopikan setiap kode script html sebagaimana diatas
+3. Amati yang terjadi pada browser dengan melakukan refresh pada setiap perubahan kode
+4. Aktifkan plugin firebug pada browser Mozilla atau chrome, kemudian lakukan inspeksi sambil melakukan perubahan-perubahan kode HTML
+
+
+Soal :
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda, Pernakah terjadi error ketika adakesalahan kode?
+Jawaban : Pernah karna ada typo
+
+2. Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH"
+content="5; url=http://google.co.id">apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen?
+Jawaban : setelah 5 detik maka akan ke halaman url=http://google.co.id". Karena meta dokumen merupakan identitas dari halaman Web yang biasa terdiri dari owner, keywords, layout, ataupun inisialisasi proses seperti refresh.
+
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+Jawaban : 
+a. <thead> biasanya di pakai untuk title/judul di dalam form
+b. <tbody> dipakai untuk deskripsi dari <thead>
+c. <tr> mendefiniskan baris pada tabel
+d. <th> membuat judul sebuah table seperti No, dan nama
+e. <td> membuat isi dari th atau baris
