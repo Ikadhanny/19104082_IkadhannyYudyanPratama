@@ -10,11 +10,19 @@
 
     if($add) {
         $conn->close();
+> Pertemuan5
+        header("location:index.php");
+        exit();                     
+    }else{
+        $conn->close();
+        header("Error : ".$conn->error);
+=======
         header("location:index");
         exit();                     
     }else{
         $conn->close();
         header("Error : ".$conn->close());
+> main
         exit();
     }
 ?>

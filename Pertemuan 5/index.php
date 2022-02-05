@@ -1,8 +1,13 @@
 <?php
     include "koneksi.php";
     $kelas = ["SE-03-A" , "SE-03-B" , "SE-04-A" , "SE-04-B" , "SE-04-C"];
+> Pertemuan5
+    $sql = "SELECT * FROM data";
+    $data = $conn->query($sql);
+=======
     $sql = "SELECT + FROM data";
     $data = $conm->query($sql);
+> main
 ?>
 
 <!doctype html>
